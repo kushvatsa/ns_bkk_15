@@ -1,4 +1,4 @@
-#Network science Project 15
+# Network science Project 15
 
 Imagine, that a group of travelling salesman wants to visit all public transport stations in Budapest. They want to accomplish this task as quickly as possible. So they hook up the map of Budapest, locate the stations and start to plan their visits. They can use only public transport to reach the stations except in the first step, where they can start at any station.
 
